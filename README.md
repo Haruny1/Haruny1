@@ -74,8 +74,8 @@ Bu kısmı repo açtıkça doldurabilirsin. Örnek:
 ## 📫 Bana Ulaş
 
 <!-- Buraya hazır olunca kendi linklerini ekleyebilirsin -->
-- 💌 Mail: `buraya-mail-adresini-yazabilirsin`
-- 💼 LinkedIn: *(ileride eklenebilir)*
+- 💌 Mail: `Haruny991@gmail.com`
+- 💼 LinkedIn: *https://www.linkedin.com/in/harun-yankın-2148b9233/*
 
 ---
 
