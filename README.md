@@ -3,7 +3,7 @@
 <h1 align="center">Merhaba, ben Harun 👋</h1>
 
 <p align="center">
-  🧑‍💻 Önlisans yazılım öğrencisi • 💻 Python & Web Geliştirme meraklısı<br/>
+  🧑‍💻 Önlisans Radyo televizyon programcılığı • 💻 Python & Web Geliştirme & Oyun Geliştirme<br/>
   🚀 Kendimi her gün küçük adımlarla geliştirmeye çalışıyorum.
 </p>
 
