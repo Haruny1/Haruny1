@@ -51,12 +51,17 @@
 ## 📊 GitHub İstatistikleri
 
 <a href="https://github.com/Haruny1/ogrenci-yonetim-sistemi">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haruny1&repo=ogrenci-yonetim-sistemi&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haruny1&repo=ogrenci-yonetim-sistemi&theme=tokyonight"/>
 </a>
 
 <a href="https://github.com/Haruny1/market-fisi-projes">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haruny1&repo=market-fisi-projes&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haruny1&repo=market-fisi-projes&theme=tokyonight"/>
 </a>
+
+<a href="https://github.com/Haruny1/mini-hesap-makinesi">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haruny1&repo=mini-hesap-makinesi&theme=tokyonight"/>
+</a>
+
 
 ---
 
