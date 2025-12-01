@@ -44,6 +44,11 @@
 - 🛒 **Küçük konsol projeleri (listeler, dictionary, döngüler)**  
   Algoritma mantığımı güçlendirmek için pratik projeler.
 
+- 🧮 **Mini Hesap Makinesi (Python + Flask + jQuery + JSON + CSS)**  
+Web tabanlı çalışan, dört işlem destekleyen mini hesap makinesi.  
+Kullanıcıdan sayıları ve işlemi alır, sonucu Flask üzerinden hesaplayıp JSON olarak ekranda gösterir.
+
+
 > Buraya ileride yeni projeler geldikçe listeyi güncelleyebilirsin.  
 
 ---
