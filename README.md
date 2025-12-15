@@ -68,20 +68,23 @@ Kullanıcıdan sayıları ve işlemi alır, sonucu Flask üzerinden hesaplayıp 
 </a>
 
 
----
-
 ## 📂 Öne Çıkan Depolar
 
-<!--
-Bu kısmı repo açtıkça doldurabilirsin. Örnek:
+- 🧾 **[Öğrenci Yönetim Sistemi](https://github.com/Haruny1/ogrenci-yonetim-sistemi)**  
+  Python kullanılarak geliştirilmiş, öğrenci ekleme, silme, listeleme ve arama işlemlerini yapan  
+  **JSON tabanlı konsol uygulaması**.  
+  Temel algoritma, dosya işlemleri ve sözlük yapıları üzerine pratik amaçlı geliştirilmiştir.
 
-- 🧾 [ogrenci-yonetim-sistemi](https://github.com/Haruny1/ogrenci-yonetim-sistemi)
-- 🛒 [mini-e-ticaret-console](https://github.com/Haruny1/mini-e-ticaret-console)
--->
+- 🛒 **[Market Fişi Projesi](https://github.com/Haruny1/market-fisi-projes)**  
+  Ürün ekleme, toplam tutar hesaplama ve fiş çıktısı mantığını içeren  
+  **Python konsol projesi**.  
+  Döngüler, listeler ve matematiksel işlemler üzerine yoğunlaşılmıştır.
 
-Şu an öğrenme aşamasındayım, zamanla buraya daha fazla proje ekleyeceğim 🚀
+- 🧮 **[Mini Hesap Makinesi](https://github.com/Haruny1/mini-hesap-makinesi)**  
+  **Flask + Python + jQuery + JSON + CSS** kullanılarak geliştirilmiş  
+  web tabanlı mini hesap makinesi.  
+  Kullanıcıdan alınan veriler backend’de işlenip JSON olarak arayüze döndürülür.
 
----
 
 ## 📫 Bana Ulaş
 
