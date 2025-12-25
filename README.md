@@ -20,6 +20,15 @@
 ---
 
 ## 🛠️ Kullandığım / Öğrendiğim Teknolojiler
+- 🐍 Python  
+- 📁 Dosya İşlemleri (File I/O)  
+- 🧱 Nesne Tabanlı Programlama (OOP)  
+- 🗂️ JSON ile Veri Yönetimi  
+- 🌐 Flask (Temel düzey)  
+- 🎨 HTML / CSS  
+- ⚙️ JavaScript & jQuery (Temel)  
+- 🔄 Git & GitHub  
+- 🧪 Algoritma ve Problem Çözme 
 
 <a href="https://github.com/Haruny1/ogrenci-yonetim-sistemi">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haruny1&repo=ogrenci-yonetim-sistemi&theme=tokyonight"/>
@@ -39,17 +48,22 @@
 
 ---
 
-## 📌 Şu An Üzerinde Çalıştıklarım
-
 - 🧾 **Öğrenci Yönetim Sistemi (Python + JSON)**  
-  Öğrenci ekleme, silme, listeleme, arama gibi işlemleri yapan basit bir sistem.
+  Öğrenci ekleme, silme, listeleme ve arama işlemlerini yapan  
+  JSON tabanlı konsol uygulaması.
 
-- 🛒 **Küçük konsol projeleri (listeler, dictionary, döngüler)**  
-  Algoritma mantığımı güçlendirmek için pratik projeler.
+- 🏦 **Banka Hesabı ATM (Python + OOP + File I/O)**  
+  Konsol üzerinden çalışan bir ATM simülasyonu.  
+  Para yatırma, çekme, bakiye görüntüleme ve işlem geçmişini  
+  dosyaya kaydetme özelliklerine sahiptir.
+
+- 🛒 **Küçük Konsol Projeleri (Listeler, Dictionary, Döngüler)**  
+  Algoritma mantığımı geliştirmek için yazılmış pratik çalışmalar.
 
 - 🧮 **Mini Hesap Makinesi (Python + Flask + jQuery + JSON + CSS)**  
-Web tabanlı çalışan, dört işlem destekleyen mini hesap makinesi.  
-Kullanıcıdan sayıları ve işlemi alır, sonucu Flask üzerinden hesaplayıp JSON olarak ekranda gösterir.
+  Web tabanlı çalışan, dört işlem destekleyen mini hesap makinesi.  
+  Kullanıcıdan alınan veriler Flask backend’de işlenip  
+  JSON olarak arayüze döndürülür.
 
 
 > Buraya ileride yeni projeler geldikçe listeyi güncelleyebilirsin.  
