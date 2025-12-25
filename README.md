@@ -21,18 +21,21 @@
 
 ## 🛠️ Kullandığım / Öğrendiğim Teknolojiler
 
-<p align="left">
-  <!-- Diller -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <br/>
-  <!-- Araçlar -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</p>
+<a href="https://github.com/Haruny1/ogrenci-yonetim-sistemi">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haruny1&repo=ogrenci-yonetim-sistemi&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/Haruny1/market-fisi-projes">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haruny1&repo=market-fisi-projes&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/Haruny1/mini-hesap-makinesi">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haruny1&repo=mini-hesap-makinesi&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/Haruny1/banka_hesabi">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haruny1&repo=banka_hesabi&theme=tokyonight"/>
+</a>
 
 ---
 
@@ -84,6 +87,13 @@ Kullanıcıdan sayıları ve işlemi alır, sonucu Flask üzerinden hesaplayıp 
   **Flask + Python + jQuery + JSON + CSS** kullanılarak geliştirilmiş  
   web tabanlı mini hesap makinesi.  
   Kullanıcıdan alınan veriler backend’de işlenip JSON olarak arayüze döndürülür.
+
+- 🏦 **[Banka Hesabı ATM](https://github.com/Haruny1/banka_hesabi)**  
+  Python ile geliştirilmiş, **konsol tabanlı ATM simülasyonu**.  
+  Kullanıcı; para yatırma, para çekme, bakiye görüntüleme ve hesap özeti alma işlemlerini yapabilir.  
+  Yapılan işlemler **dosya (file I/O)** kullanılarak kayıt altına alınır.  
+  Bu proje ile **OOP (Class, Method), dosya okuma/yazma ve menü yapısı** pratiği yapılmıştır.
+
 
 
 ## 📫 Bana Ulaş
