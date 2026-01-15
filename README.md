@@ -46,6 +46,10 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haruny1&repo=banka_hesabi&theme=tokyonight"/>
 </a>
 
+<a href="https://github.com/Haruny1/anket-projesi">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haruny1&repo=anket-projesi&theme=tokyonight"/>
+</a>
+
 ---
 
 - 🧾 **Öğrenci Yönetim Sistemi (Python + JSON)**  
@@ -65,6 +69,11 @@
   Kullanıcıdan alınan veriler Flask backend’de işlenip  
   JSON olarak arayüze döndürülür.
 
+- 📊 Anket Uygulaması (Python + Koşullar + Döngüler)
+  Kullanıcıdan alınan cevaplarla çalışan
+  konsol tabanlı bir anket uygulaması.
+  Evet/Hayır cevaplarını sayarak
+  anket sonuçlarını özet halinde gösterir.
 
 > Buraya ileride yeni projeler geldikçe listeyi güncelleyebilirsin.  
 
