@@ -93,6 +93,15 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haruny1&repo=mini-hesap-makinesi&theme=tokyonight"/>
 </a>
 
+<a href="https://github.com/Haruny1/banka_hesabi">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haruny1&repo=banka_hesabi&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/Haruny1/anket-projesi">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haruny1&repo=anket-projesi&theme=tokyonight"/>
+</a>
+
+
 
 ## 📂 Öne Çıkan Depolar
 
@@ -116,6 +125,13 @@
   Kullanıcı; para yatırma, para çekme, bakiye görüntüleme ve hesap özeti alma işlemlerini yapabilir.  
   Yapılan işlemler **dosya (file I/O)** kullanılarak kayıt altına alınır.  
   Bu proje ile **OOP (Class, Method), dosya okuma/yazma ve menü yapısı** pratiği yapılmıştır.
+
+
+- 📊 Anket Uygulaması  
+  Python kullanılarak geliştirilmiş, konsol tabanlı anket uygulaması.
+  Kullanıcıdan alınan Evet / Hayır cevaplarını sayarak
+  anket sonuçlarını özet halinde gösterir.
+  Bu proje ile koşullu ifadeler (if-else), sayaç mantığı ve kullanıcı girdisi pratiği yapılmıştır.
 
 
 
