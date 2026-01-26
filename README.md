@@ -50,6 +50,10 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haruny1&repo=anket-projesi&theme=tokyonight"/>
 </a>
 
+<a href="https://github.com/Haruny1/rezervasyon-sistemi">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haruny1&repo=rezervasyon-sistemi&theme=tokyonight"/>
+</a>
+
 ---
 
 - 🧾 **Öğrenci Yönetim Sistemi (Python + JSON)**  
@@ -74,6 +78,12 @@
   konsol tabanlı bir anket uygulaması.
   Evet/Hayır cevaplarını sayarak
   anket sonuçlarını özet halinde gösterir.
+
+- 🏨 Rezervasyon Sistemi (Python + Dictionary + Döngüler)
+  Odaların dolu/boş durumunu kontrol eden
+  kullanıcı bazlı rezervasyon yapılabilen
+  konsol tabanlı bir uygulama.
+  Aynı odaya birden fazla rezervasyon yapılmasını engeller.
 
 > Buraya ileride yeni projeler geldikçe listeyi güncelleyebilirsin.  
 
@@ -101,6 +111,9 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haruny1&repo=anket-projesi&theme=tokyonight"/>
 </a>
 
+<a href="https://github.com/Haruny1/rezervasyon-sistemi">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haruny1&repo=rezervasyon-sistemi&theme=tokyonight"/>
+</a>
 
 
 ## 📂 Öne Çıkan Depolar
@@ -133,6 +146,13 @@
   anket sonuçlarını özet halinde gösterir.
   Bu proje ile koşullu ifadeler (if-else), sayaç mantığı ve kullanıcı girdisi pratiği yapılmıştır.
 
+
+- 🏨 Oda Rezervasyon Sistemi (Python)
+  Konsol üzerinden çalışan bu uygulama, odaların doluluk durumunu takip eden
+  basit bir rezervasyon sistemidir. Kullanıcılar oda sorgulama ve rezervasyon
+  işlemleri yapabilir. Aynı oda için ikinci bir rezervasyona izin verilmez.
+  Projede dictionary, menü tabanlı yapı, sonsuz döngü,
+  kullanıcı girdisi kontrolü ve iş mantığı tasarımı konularında pratik yapılmıştır.
 
 
 ## 📫 Bana Ulaş
